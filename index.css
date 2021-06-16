@@ -1,0 +1,36 @@
+.container0{
+    display: flex;
+    justify-content:center;
+
+}
+.container1{
+    display: flex;
+    flex-direction: column;
+    margin:60px 10px 0 0;
+}
+.box1{
+    margin:0 0 10px 0;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+ .box1 img{
+    width:60px;
+    height:60px;
+    object-fit: cover;
+    border-radius: 10px;
+} 
+#container2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color:grey;
+}
+#container2 #prev
+{
+    width:640px;
+    height:860px;
+    object-fit: cover;
+    border-radius: 5px;
+}
